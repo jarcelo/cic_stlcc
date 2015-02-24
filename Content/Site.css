@@ -114,14 +114,14 @@ h5, h6 {
         background: url("../Images/heroAccent.png") no-repeat;
     }
 header {
-    background-color: #0087b8;
+    /*background-color: #0087b8;
     min-height: 80px;
-    border-bottom: 3px solid #808080;
+    border-bottom: 3px solid #808080;*/
 }
 header .content-wrapper {
-    background-color: #0087b8;
+    /*background-color: #0087b8;
     padding-top: 20px; 
-    /*height: 80px;
+    height: 80px;
     border:  solid red;*/
 }
 
